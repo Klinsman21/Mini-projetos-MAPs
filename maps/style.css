@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+#map {
+  margin-left: 24%;
+  height: 500px;
+  width: 700px;
+}
+h1{
+  font-family: 'Oswald', sans-serif;
+}
+p{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+      
+      /* Optional: Makes the sample page fill the window. */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
